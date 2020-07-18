@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="AdonisApi" title="#delicinha" src=".github/adonis.png" width="500px" />
+  <img alt="AdonisApi" title="#delicinha" src=".github/adonis.svg" width="350px" />
 </h1>
 
 <p align="center">
