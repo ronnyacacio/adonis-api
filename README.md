@@ -33,14 +33,14 @@
 ## 💻 Projeto
 
 Essa é uma API onde é possível o usuário se autenticar e fazer o CRUD de usuários, tarefas e projetos!
-O projeto foi feito para estudar o framework adonisjs. Foi criado uma API completa com autenticação, CRUD das entidades, relacionamentos diversos entre as tabelas, envio de emails e mais!
+O projeto foi feito para estudar o framework adonisjs. Foi criado uma API completa com autenticação, CRUD das entidades, relacionamentos diversos entre as tabelas, envio de emails, upload de arquivos e mais!
 
 <br />
 
-## 🔨 API
+## 🔨 API Routes
 
 <h1 align="center">
-    <img src=".github/api.jpeg" />
+    <img src=".github/api.png" />
 </h1>
 
 <br />
@@ -52,6 +52,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Adonis](https://adonisjs.com/)
 - [pg](https://github.com/brianc/node-postgres)
+- [Redis](https://redis.io/)
+- [Adonis-Kue](https://github.com/nrempel/adonis-kue)
 
 <br />
 
