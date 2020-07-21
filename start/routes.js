@@ -1,7 +1,5 @@
 'use strict';
 
-const Project = require('../app/Validators/Project');
-
 const Route = use('Route');
 
 Route.post('users', 'UserController.store').validator('User');
