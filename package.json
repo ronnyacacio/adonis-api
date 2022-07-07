@@ -29,7 +29,7 @@
     "@adonisjs/redis": "^2.0.7",
     "@adonisjs/validator": "^5.0.6",
     "adonis-kue": "^5.0.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "pg": "^8.3.0"
   },
   "devDependencies": {},
